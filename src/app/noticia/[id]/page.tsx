@@ -45,3 +45,6 @@ export default async function PaginaNoticia({ params }: props) {
       </div>
     );
 }
+
+//https://nextjs.org/docs/app/api-reference/file-conventions/route-segment-config
+export const dynamic = 'force-static';
