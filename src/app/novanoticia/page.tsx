@@ -21,8 +21,12 @@ export default function NovaNoticia() {
     const conteudo = e.target.conteudo.value;
     const imagem = e.target.imagem.value;
 
-    alert(titulo + descricao + conteudo + imagem);
-    alert('Noticia Inserida com sucesso, titulo: ' + titulo);
+    const response = await fetch('/api', {
+      method: 'POST',
+      body: JSON.stringify({ titulo, descricao, conteudo, imagem }),
+    });
+    const noticia = await response.json();
+    alert('Noticia Inserida com sucesso, titulo: ' + noticia.titulo);
   }
 
   return (
