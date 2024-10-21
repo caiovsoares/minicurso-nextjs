@@ -10,7 +10,7 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model noticia {
+model Noticia {
   id        String @id @unique @default(uuid())
   titulo    String
   descricao String
