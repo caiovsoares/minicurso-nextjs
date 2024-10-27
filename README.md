@@ -1,4 +1,5 @@
 # Minicurso Next.js :man_teacher:
+<img src="https://raw.githubusercontent.com/caiovsoares/minicurso-nextjs/refs/heads/main/public/minicurso.png" alt="Imagem Alunos"/>
 Este projeto é fruto de um minicurso realizado no Centro Universitário das Faculdades Associadas de Ensino (FAE). 
 
 Durante a Semana da Engenharia, celebrando os 10 anos do Curso de Engenharia de Software na UniFAE, alguns ex-alunos foram convidados a ministrar minicursos sobre temas de interesse dos estudantes. Um dos assuntos mais solicitados foi o framework Next.js.
@@ -9,8 +10,8 @@ Diante disso, decidi desenvolver, em conjunto com os alunos, um projeto simples,
 Acesse o link: [Minicurso-Nextjs Vercel](https://minicurso-nextjs.vercel.app/)
 
 ## Imagens :camera_flash:
-<img src="https://raw.githubusercontent.com/caiovsoares/minicurso-nextjs/24f94faf5b56930156308f28733d36c37ee932a0/public/Alunos.jpg" alt="Imagem Alunos" width="800"/>
-<img src="https://raw.githubusercontent.com/caiovsoares/minicurso-nextjs/24f94faf5b56930156308f28733d36c37ee932a0/public/Professores.jpg" alt="Imagem Professores" width="800"/>
+<img src="https://raw.githubusercontent.com/caiovsoares/minicurso-nextjs/refs/heads/main/public/Alunos.jpg" alt="Imagem Alunos"/>
+<img src="https://raw.githubusercontent.com/caiovsoares/minicurso-nextjs/refs/heads/main/public/Professores.jpg" alt="Imagem Professores"/>
 
 ## Como usar :computer:
 
